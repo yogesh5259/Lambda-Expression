@@ -1,4 +1,4 @@
-package com.mordernjava.lambda;
+package com.modernjava.lambda;
 
 @FunctionalInterface
 public interface Sum {

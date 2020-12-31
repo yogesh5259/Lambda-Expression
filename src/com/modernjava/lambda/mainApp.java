@@ -1,4 +1,4 @@
-package com.mordernjava.lambda;
+package com.modernjava.lambda;
 
 public class mainApp {
     public static void main(String[] args) {

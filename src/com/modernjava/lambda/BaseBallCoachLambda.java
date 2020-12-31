@@ -1,4 +1,4 @@
-package com.mordernjava.lambda;
+package com.modernjava.lambda;
 
 public class BaseBallCoachLambda {
     public static void main(String[] args) {
