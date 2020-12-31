@@ -9,7 +9,7 @@
 
 
 #idea files
-.idea
+*.idea
 LambdaExpression.iml
 
 # Mobile Tools for Java (J2ME)
